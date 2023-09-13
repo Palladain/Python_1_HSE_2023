@@ -1,7 +1,7 @@
 # Курс "Язык программирования Python" для 1 курса ФКН ВШЭ 2023-2024 год
 
 #### [Лекция 1: Ввод-вывод, типы данных](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_1.ipynb)
-#### Лекция 2: Циклы и условия, ввод-вывод с файла
+#### [Лекция 2: Циклы и условия, ввод-вывод с файла](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_2.ipynb)
 #### Лекция 3: Словари, множества
 #### Лекция 4: Функции, рекурсии, декораторы
 #### Лекция 5: Итераторы и генераторы
