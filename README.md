@@ -4,7 +4,7 @@
 #### [Лекция 2: Циклы и условия, ввод-вывод с файла](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_2.ipynb)
 #### [Лекция 3: Словари, множества](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_3.ipynb)
 #### [Лекция 4: Функции, рекурсии, декораторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_4.ipynb)
-#### [Лекция 5: Итераторы и генераторы]((https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_5.ipynb)
+#### [Лекция 5: Итераторы и генераторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_5.ipynb)
 #### Лекция 6: Исключения, тестирование и логгирование
 #### Лекция 7: ООП-1
 #### Лекция 8: ООП-2
