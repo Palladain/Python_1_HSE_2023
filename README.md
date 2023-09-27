@@ -6,8 +6,8 @@
 #### [Лекция 4: Функции, рекурсии, декораторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_4.ipynb)
 #### [Лекция 5: Итераторы и генераторы](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_5.ipynb)
 #### [Лекция 6: Исключения и логгирование](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_6.ipynb)
-#### Лекция 7: ООП-1
-#### Лекция 8: ООП-2
+#### [Лекция 7: ООП-1](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_7_8.ipynb)
+#### [Лекция 8: ООП-2](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_7_8.ipynb)
 #### Лекция 9: Регулярные выражения
 #### Лекция 10: Numpy
 #### Лекция 11: Pandas
