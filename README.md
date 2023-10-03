@@ -8,9 +8,9 @@
 #### [Лекция 6: Исключения и логгирование](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_6.ipynb)
 #### [Лекция 7: ООП-1](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_7_8.ipynb)
 #### [Лекция 8: ООП-2](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_7_8.ipynb)
-#### Лекция 9: Регулярные выражения
+#### [Лекция 9: Регулярные выражения, collections + itertools](https://colab.research.google.com/github/Palladain/Python_1_HSE_2023/blob/main/Lecture_9.ipynb)
 #### Лекция 10: Numpy
 #### Лекция 11: Pandas
-#### Лекция 12: Collections + itertools
+#### Лекция 12: Matplotlib + seaborn
 #### Лекция 13: Requests
 #### Лекция 14: TBD
